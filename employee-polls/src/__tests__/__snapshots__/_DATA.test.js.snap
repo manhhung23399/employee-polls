@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`_saveQuestion [_saveQuestion] will return error when author is not provided 1`] = `"Please provide optionOneText, optionTwoText, and author"`;
+
+exports[`_saveQuestionAnswer [_saveQuestionAnswer] will return error when qid is not provided 1`] = `"Please provide authedUser, qid, and answer"`;
